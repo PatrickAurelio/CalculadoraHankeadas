@@ -1,0 +1,14 @@
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\bin\Debug\net8.0\CalculadoraDePartidas.exe
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\bin\Debug\net8.0\CalculadoraDePartidas.deps.json
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\bin\Debug\net8.0\CalculadoraDePartidas.runtimeconfig.json
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\bin\Debug\net8.0\CalculadoraDePartidas.dll
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\bin\Debug\net8.0\CalculadoraDePartidas.pdb
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.AssemblyInfoInputs.cache
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.AssemblyInfo.cs
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.csproj.CoreCompileInputs.cache
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.dll
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\refint\CalculadoraDePartidas.dll
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.pdb
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\CalculadoraDePartidas.genruntimeconfig.cache
+E:\GitHub\CalculadorasDePartidas\CalculadoraDePartidas\CalculadoraDePartidas\obj\Debug\net8.0\ref\CalculadoraDePartidas.dll
